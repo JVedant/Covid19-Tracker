@@ -2,6 +2,9 @@
 
 A project to track the number of covid cases in real time
 
+
+![home page](https://github.com/JVedant/Covid19-Tracker/blob/master/images/Homepage.png)
+
 ---
 ## Technology used :
 
