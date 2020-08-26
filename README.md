@@ -1,7 +1,22 @@
-# Covid19 RealTime webapp
+# Covid19 Real-Time Tracker 🦠
 
-a webapp to display real time number of COVID-19 cases using SpringBoot.
+A project to track the number of covid cases in real time
 
-also predicting the future using machine learning and deep learning ...
+---
+## Technology used :
 
-adding more soon
+- SpringBoot
+  - [Thymeleaf](http://thymeleaf.org/) - for template
+- [Bootstrap](https://getbootstrap.com) - Basic styling
+
+---
+
+## Adding soon:
+- Prediction using Machine Learning and time-Series analysis
+- Tracker based on Country and State
+
+### Additional information : 
+- dataset - [COVID-19](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv)
+----
+
+Feel free to create PR 😄
