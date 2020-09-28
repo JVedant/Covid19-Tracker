@@ -1,6 +1,7 @@
 # Covid19 Real-Time Tracker 🦠
 
 A project to track the number of covid cases in real time
+(Adding future Predictions using time series analysis soon)
 
 
 ![home page](https://github.com/JVedant/Covid19-Tracker/blob/master/images/Homepage.png)
