@@ -22,5 +22,3 @@ A project to track the number of covid cases in real time
 ### Additional information : 
 - Dataset - [COVID-19](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv)
 ----
-
-Feel free to create PR 😄
